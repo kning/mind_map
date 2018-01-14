@@ -3,7 +3,7 @@ data = {
     "FYK":[
       {
         "project_name": "Distribution",
-        "description": "Work on shipping, packaging, and distributing of existing content"
+        "description": "Work on shipping, packaging, and distribution of existing content"
       },
       {
         "project_name": "Gigging",
@@ -94,7 +94,7 @@ data = {
       },
       {
         "project_name": "Machine Learning",
-        "description": "Read/do walkthroughs of python machine learning"
+        "description": "Read/do walkthroughs of machine learning"
       }
     ],
     "Non-Spotify":[
